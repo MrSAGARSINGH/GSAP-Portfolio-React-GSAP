@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import "./WhoAmi.scss";
+import "./WhoAmI.scss";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
